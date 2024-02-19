@@ -1,3 +1,4 @@
+```markdown
 # GCD Programming Language Documentation
 
 ## Introduction
@@ -44,7 +45,48 @@ Enhance code readability by incorporating common punctuation marks, such as `!` 
 3. Enhance documentation with images using `photo~#`.
 4. For detailed explanations, include video clips with `video#~`.
 
+## Installation
+To start using GCD, follow these steps:
+
+1. Download the GCD compiler from [our official website](https://www.gcdlang.com/downloads).
+2. Install the compiler on your operating system by following the provided instructions.
+
+## Usage Examples
+Here are some examples demonstrating the power and flexibility of GCD:
+
+```gcd
+name~~MyFirstApp
+text~#
+photo~#
+video#~
+server:
+  - name: server.gcd
+    activate: ~
+    size: ~
+    page_length: ~
+    advanced_features: ~
+      - topic_modeling
+      - content_clustering
+      - sentiment_analysis
+    brackets_support: ~
+```
+
+## Contribution Guidelines
+We welcome contributions from the community to improve and enhance GCD. Please refer to our [contribution guidelines](https://github.com/gcdlang/contributing) for more information on how to get involved.
+
+## Support
+If you have any questions or need assistance, please don't hesitate to contact our support team at support@gcdlang.com.
+
+## License
+GCD is licensed under the MIT License. See the [LICENSE](https://github.com/gcdlang/LICENSE) file for more details.
+
+## Acknowledgements
+We would like to thank all the contributors and supporters who have helped make GCD a powerful and versatile programming language.
+
 ## Conclusion
 GCD is a language at the forefront of innovation, continually evolving to meet the demands of experienced developers. Whether you're building a simple application or a complex machine learning model, GCD provides the tools and features you need for efficient and effective programming.
 
 Happy coding with GCD!
+```
+
+يمكنك إضافة قسم للتثبيت والاستخدام، وأمثلة على الاستخدام، وإرشادات المساهمة، وقسم للدعم والترخيص والشكر، حسب احتياجات ومتطلبات مشروعك.
