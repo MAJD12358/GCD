@@ -48,17 +48,24 @@ Enhance code readability by incorporating common punctuation marks, such as `!` 
 ## Installation
 To start using GCD, follow these steps:
 
-1. Download the GCD compiler from [our official website](https://www.gcdlang.com/downloads).
-2. Install the compiler on your operating system by following the provided instructions.
+### Step 1: Download GCD Compiler
+Visit our official website and download the GCD compiler suitable for your operating system.
 
-## Usage Examples
-Here are some examples demonstrating the power and flexibility of GCD:
+### Step 2: Installation
+Follow the installation instructions provided for your operating system.
 
+## 25 Usage Examples
+
+### Example 1: Simple GCD Code
 ```gcd
 name~~MyFirstApp
-text~#
+text~# Welcome to GCD Programming!
 photo~#
 video#~
+```
+
+### Example 2: Server Configuration
+```gcd
 server:
   - name: server.gcd
     activate: ~
@@ -71,14 +78,146 @@ server:
     brackets_support: ~
 ```
 
+### Example 3: AdMob Integration
+```gcd
+admob~#
+```
+
+### Example 4: Firebase Real-time Interaction
+```gcd
+realtime~#
+```
+
+### Example 5: Machine Learning Model
+```gcd
+machine_learning~#
+```
+
+### Example 6: UI Design with Animation
+```gcd
+Ui+
+Animation~
+```
+
+### Example 7: Natural Language Processing
+```gcd
+ai_tools:
+  - natural_language_processing
+```
+
+### Example 8: Python Integration
+```gcd
+html_css_js_python_java:
+  - python
+```
+
+### Example 9: Content Clustering
+```gcd
+server:
+  - advanced_features:
+      - content_clustering
+```
+
+### Example 10: Enhanced Security
+```gcd
+advanced_features:
+  - enhanced_security
+```
+
+### Example 11: Server-Side Scripting
+```gcd
+php_similarity: ~
+```
+
+### Example 12: Design with Styles
+```gcd
+#style~
+```
+
+### Example 13: User Copy
+```gcd
+user_copy~#
+```
+
+### Example 14: Server Activation
+```gcd
+server:
+  - name: server.gcd
+    activate~#
+```
+
+### Example 15: Arabic Question Mark
+```gcd
+؟
+```
+
+### Example 16: French Language Support
+```gcd
+language_support:
+  - french
+```
+
+### Example 17: German Language Support
+```gcd
+language_support:
+  - german
+```
+
+### Example 18: American English Language Support
+```gcd
+language_support:
+  - american_english
+```
+
+### Example 19: Linking Languages
+```gcd
+Link=
+```
+
+### Example 20: Exporting Application
+```gcd
+export~#
+```
+
+### Example 21: Predictive Analytics
+
+
+```gcd
+ai_tools:
+  - predictive_analytics
+```
+
+### Example 22: Server.gcd Configuration
+```gcd
+server:
+  - name: server.gcd
+    page_length: 100
+```
+
+### Example 23: Stylish Icons
+```gcd
+icon#~
+```
+
+### Example 24: Server Copy
+```gcd
+server:
+  - server_copy~#
+```
+
+### Example 25: Acknowledgements
+```gcd
+acknowledgements~#
+```
+
 ## Contribution Guidelines
-We welcome contributions from the community to improve and enhance GCD. Please refer to our [contribution guidelines](https://github.com/gcdlang/contributing) for more information on how to get involved.
+We welcome contributions from the community to improve and enhance GCD. Please refer to our contribution guidelines for more information on how to get involved.
 
 ## Support
 If you have any questions or need assistance, please don't hesitate to contact our support team at support@gcdlang.com.
 
 ## License
-GCD is licensed under the MIT License. See the [LICENSE](https://github.com/gcdlang/LICENSE) file for more details.
+GCD is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
 We would like to thank all the contributors and supporters who have helped make GCD a powerful and versatile programming language.
@@ -89,4 +228,4 @@ GCD is a language at the forefront of innovation, continually evolving to meet t
 Happy coding with GCD!
 ```
 
-يمكنك إضافة قسم للتثبيت والاستخدام، وأمثلة على الاستخدام، وإرشادات المساهمة، وقسم للدعم والترخيص والشكر، حسب احتياجات ومتطلبات مشروعك.
+تمت إضافة 25 مثالًا على كيفية استخدام لغة GCD. يمكنك تخصيص هذه الأمثلة وفقًا لاحتياجات مشروعك.
